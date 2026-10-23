@@ -3,7 +3,8 @@
 //  CLRadiuButtonDemo
 //
 //  Created by iOS Grouper on 16/7/4.
-//  Copyright © 2016年 huaxu. All rights reserved.
+//  Copyright © 2016 huaxu.
+//  SPDX-License-Identifier: MIT
 //
 
 #import "WBRadioButtonManager.h"

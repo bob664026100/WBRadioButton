@@ -3,7 +3,8 @@
 //  WeakArrDic
 //
 //  Created by 廖文博 on 16/4/30.
-//  Copyright © 2016年 wenbo. All rights reserved.
+//  Copyright © 2016 wenbo.
+//  SPDX-License-Identifier: MIT
 //
 
 #import "NSMutableSet+WeakReference.h"
